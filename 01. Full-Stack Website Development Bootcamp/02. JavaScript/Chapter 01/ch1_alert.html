@@ -1,0 +1,4 @@
+<html>
+<script type="text/javascript" src="ch1_alert.js"></script>
+
+</html>
